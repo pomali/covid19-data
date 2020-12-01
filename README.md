@@ -1,6 +1,7 @@
 # covid19-data
 Open data sets related to the covid19 pandemic in Slovakia provided by the MoH of Slovakia.
 
+```
 OpenData_Slovakia_Covid_AgTests_District.csv: Windows-1252 with confidence 0.73
 OpenData_Slovakia_Covid_DailyStats.csv: ascii with confidence 1.0
 OpenData_Slovakia_Covid_DeathsCumulative.csv: ascii with confidence 1.0
@@ -10,7 +11,7 @@ OpenData_Slovakia_Covid_Hospital_Details_Dictionary.csv: UTF-8-SIG with confiden
 OpenData_Slovakia_Covid_PositiveTests_AgeGroup_District.csv: Windows-1252 with confidence 0.73
 OpenData_Slovakia_Covid_PositiveTests_District.csv: Windows-1252 with confidence 0.73
 Slovakia_National_Testing_Municipality_Data.csv: utf-8 with confidence 0.99
-
+```
 
 <strong>Sources of data</strong>
 - Cases, hospital data, hospital capacity: NCZI SK (www.nczisk.sk)
